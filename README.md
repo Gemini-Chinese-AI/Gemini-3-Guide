@@ -1,4 +1,4 @@
-## **Gemini 3 Pro Preview: Google AI 的终极指南 (2025/11/08最新版)**
+## **Gemini 3 Pro Preview: Google AI 的终极指南 (2025/11/14最新版)**
 
 全面体验 [Gemini 中文版](https://link.zhihu.com/?target=https%3A%2F%2Fai.lanjingai.org%2F)，**国内直连，支持 Gemini  3 Pro Preview、Gemini 2.5 Pro 及中文版功能**
 
@@ -76,4 +76,4 @@ Gemini 不仅是 Google 在AI竞赛中的有力竞争者，更是一款真正将
 
 ---
 
-**最后更新时间**: 2025-11-08
+**最后更新时间**: 2025-11-14
